@@ -1,4 +1,4 @@
-# Axiom Trade Automation Suite
+# Axiom Referral Automation Suite
 
 Enterprise-grade automation solution for Axiom Trade, engineered for maximum efficiency and reliability. This repository contains the framework demonstration of our proprietary automation system.
 
